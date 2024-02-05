@@ -1,0 +1,5 @@
+/FW/build
+/FW/db
+/FW/incremental_db
+*.vcd
+*.bak
